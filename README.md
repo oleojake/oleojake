@@ -1,5 +1,5 @@
 ### Hola, mi nombre es Pablo Marzal 👋 
-Me gradué en **Ingieniería Multimedia** y me especialicé mediante un **Máster en Ecommerce** y Marketing Digital. Siento predilección por el desarrollo web y también poseo un **Curso en JavaScript y TypeScript**, si quieres saber más sobre mí, sigue leyendo 👇
+Me gradué en **Ingieniería Multimedia** y me especialicé mediante un **Máster en Ecommerce** y Marketing Digital. Siento predilección por el desarrollo web y por lo que cursé un **BootCamp en JavaScript y TypeScript**, si quieres saber más sobre mí, sigue leyendo 👇
 
 ### TECNOLOGÍAS
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,wordpress,vscode,git,github&perline=5)
