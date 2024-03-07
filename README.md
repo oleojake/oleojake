@@ -2,7 +2,7 @@
 Me gradué en **Ingieniería Multimedia** y me especialicé mediante un **Máster en Ecommerce** y Marketing Digital. Siento predilección por el desarrollo web y por lo que cursé un **BootCamp en JavaScript y TypeScript**, si quieres saber más sobre mí, sigue leyendo 👇
 
 ### TECNOLOGÍAS
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,wordpress,vscode,git,github&perline=5)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vitest,wordpress,vscode,git,github&perline=5)
 
 🌱 Actualmente estoy cursando un Máster sobre desarrollo FrontEnd con [🍋 LemonCode](https://lemoncode.net/) donde estoy mejorando mis competencias en: ***React - Angular - Vuejs - Svelte - d3js - CSS - NextJS -  Jest - GraphQL - Webpack - Vite - Parcel - ES6 - Typescript y Git***
 
