@@ -1,4 +1,4 @@
-### Hola, mi nombre es Pablo Marzal 👋 
+## Hola, mi nombre es Pablo Marzal 👋 
 Me gradué en **Ingieniería Multimedia** y me especialicé mediante un **Máster en Ecommerce** y Marketing Digital. Siento predilección por el desarrollo web y por lo que cursé un **BootCamp en JavaScript y TypeScript**, si quieres saber más sobre mí, sigue leyendo 👇
 
 ### TECNOLOGÍAS
@@ -11,3 +11,6 @@ Me gradué en **Ingieniería Multimedia** y me especialicé mediante un **Máste
 ⚡ Fun fact ¿Sabías que durante la carrera de ingeniería me especialicé en el **Desarrollo de Videojuegos**? 😄 Otro dato curioso sobre mí es que me apasiona el baloncesto y los animales.
 
 📫 Cómo contactarme, puedes hacerlo a través de [LinkedIn](https://www.linkedin.com/in/pablo-marzal/)
+
+## React Tic-Tae-Toe
+[![React Tic Tae Toe](https://raw.githubusercontent.com/oleojake/oleojake/main/React%20TicTaeToe.png)](https://github.com/oleojake/React-TicTacToe)
