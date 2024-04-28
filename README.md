@@ -13,7 +13,7 @@ Me gradué en **Ingieniería Multimedia** y me especialicé mediante un **Máste
 📫 Cómo contactarme, puedes hacerlo a través de [LinkedIn](https://www.linkedin.com/in/pablo-marzal/)
 
 ## React Tic-Tae-Toe
-[![React Tic Tae Toe](https://raw.githubusercontent.com/oleojake/oleojake/main/React%20TicTaeToe.png)](https://github.com/oleojake/React-TicTacToe)
+[![React Tic Tae Toe](https://raw.githubusercontent.com/oleojake/oleojake/main/React%20TicTaeToe.png)](https://github.com/oleojake/react-tictaetoe-ia)
 
 ## BootCamp JavaScript 🍋
 [![BootCamp javaScript](https://raw.githubusercontent.com/oleojake/oleojake/main/Bootcamp%20JS.png)](https://github.com/oleojake/bootcampjs-lemoncode)
