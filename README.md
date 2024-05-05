@@ -1,8 +1,8 @@
 ## Hola, mi nombre es Pablo Marzal 👋 
-Me gradué en **Ingieniería Multimedia** y me especialicé mediante un **Máster en Ecommerce** y Marketing Digital. Siento predilección por el desarrollo web y por lo que cursé un **BootCamp en JavaScript y TypeScript**, si quieres saber más sobre mí, sigue leyendo 👇
+Me gradué en **Ingieniería Multimedia** y me especialicé mediante un **Máster en Ecommerce** y Marketing Digital. Siento predilección por el desarrollo web por lo que cursé un **BootCamp en JavaScript y TypeScript**, si quieres saber más sobre mí, sigue leyendo 👇
 
 ### TECNOLOGÍAS
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vitest,wordpress,vscode,git,github&perline=5)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vitest,wordpress,vscode,git,github,astro,tailwind&perline=5)
 
 🌱 Actualmente estoy cursando un Máster sobre desarrollo FrontEnd con [🍋 LemonCode](https://lemoncode.net/) donde estoy mejorando mis competencias en: ***React - Angular - Vuejs - Svelte - d3js - CSS - NextJS -  Jest - GraphQL - Webpack - Vite - Parcel - ES6 - Typescript y Git***
 
@@ -14,6 +14,9 @@ Me gradué en **Ingieniería Multimedia** y me especialicé mediante un **Máste
 
 ## React Tic-Tae-Toe
 [![React Tic Tae Toe](https://raw.githubusercontent.com/oleojake/oleojake/main/React%20TicTaeToe%20ai.png)](https://github.com/oleojake/react-tictaetoe-ia)
+
+## Astro Classic Pokédex
+[![Astro Classic Pokédex](https://raw.githubusercontent.com/oleojake/oleojake/main/classic-pokedex.png)](https://github.com/oleojake/Classic-Pokedex)
 
 ## BootCamp JavaScript 🍋
 [![BootCamp javaScript](https://raw.githubusercontent.com/oleojake/oleojake/main/Bootcamp%20JS.png)](https://github.com/oleojake/bootcampjs-lemoncode)
