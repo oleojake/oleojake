@@ -4,7 +4,7 @@ Me gradué en **Ingieniería Multimedia** y me especialicé mediante un **Máste
 [✅ Check my portfolio](https://pablomarzal.com/)
 
 ### TECNOLOGÍAS
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind,vitest,wordpress,vscode,git,github&perline=6)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind,vitest,sass,figma,bootstrap,magento,wordpress,vscode,git,github&perline=6)
 
 🌱 Actualmente estoy cursando un Máster sobre desarrollo FrontEnd con [🍋 LemonCode](https://lemoncode.net/) donde estoy mejorando mis competencias en: ***React - Angular - Vuejs - Svelte - d3js - CSS - NextJS -  Jest - GraphQL - Webpack - Vite - Parcel - ES6 - Typescript y Git***
 
