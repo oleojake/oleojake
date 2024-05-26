@@ -20,5 +20,8 @@ Me gradué en **Ingieniería Multimedia** y me especialicé mediante un **Máste
 ## Astro Classic Pokédex
 [![Astro Classic Pokédex](https://raw.githubusercontent.com/oleojake/oleojake/main/classic-pokedex.png)](https://github.com/oleojake/Classic-Pokedex)
 
+## React / MUI Weather App
+[![React Weather App](https://raw.githubusercontent.com/oleojake/oleojake/main/weather-whiz.png)](https://github.com/oleojake/weather-app)
+
 ## BootCamp JavaScript 🍋
 [![BootCamp javaScript](https://raw.githubusercontent.com/oleojake/oleojake/main/Bootcamp%20JS.png)](https://github.com/oleojake/bootcampjs-lemoncode)
