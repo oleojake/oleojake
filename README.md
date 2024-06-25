@@ -14,14 +14,14 @@ Me gradué en **Ingieniería Multimedia** y me especialicé mediante un **Máste
 
 📫 Cómo contactarme, puedes hacerlo a través de [LinkedIn](https://www.linkedin.com/in/pablo-marzal/)
 
-## React Tic-Tae-Toe
-[![React Tic Tae Toe](https://raw.githubusercontent.com/oleojake/oleojake/main/React%20TicTaeToe%20ai.png)](https://github.com/oleojake/react-tictaetoe-ia)
+## React POS (Point Of Sale)
+[![React POS (Point Of Sale)](https://raw.githubusercontent.com/oleojake/oleojake/main/react-pos.png)](https://github.com/oleojake/tpv-react)
 
 ## Astro Classic Pokédex
 [![Astro Classic Pokédex](https://raw.githubusercontent.com/oleojake/oleojake/main/classic-pokedex.png)](https://github.com/oleojake/Classic-Pokedex)
 
+## React AI Tic-Tae-Toe
+[![React Tic Tae Toe](https://raw.githubusercontent.com/oleojake/oleojake/main/React%20TicTaeToe%20ai.png)](https://github.com/oleojake/react-tictaetoe-ia)
+
 ## React / MUI Weather App
 [![React Weather App](https://raw.githubusercontent.com/oleojake/oleojake/main/weather-whiz.png)](https://github.com/oleojake/weather-app)
-
-## BootCamp JavaScript 🍋
-[![BootCamp javaScript](https://raw.githubusercontent.com/oleojake/oleojake/main/Bootcamp%20JS.png)](https://github.com/oleojake/bootcampjs-lemoncode)
