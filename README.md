@@ -6,7 +6,7 @@ Me gradué en **Ingieniería Multimedia** y me especialicé mediante un **Máste
 ### TECNOLOGÍAS
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind,vitest,sass,figma,bootstrap,wordpress,vscode,git,github,mui&perline=8)
 
-🌱 Actualmente estoy cursando un Máster sobre desarrollo FrontEnd con [🍋 LemonCode](https://lemoncode.net/) donde estoy mejorando mis competencias en: ***React - Angular - Vuejs - Svelte - d3js - CSS - NextJS -  Jest - GraphQL - Webpack - Vite - Parcel - ES6 - Typescript y Git***
+🌱 Actualmente estoy cursando un Máster sobre desarrollo FrontEnd con [🍋 LemonCode](https://lemoncode.net/) donde estoy mejorando mis competencias en: ***React - Angular - Vuejs - Svelte - d3js - CSS - NextJS -  Jest - GraphQL - Webpack - Vite - ES6 - Typescript y Git***
 
 👯 Me gustaría colaborar en proyectos relacionados con la Inteligencia Artificial o la Gamificación
 
