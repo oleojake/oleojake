@@ -1,5 +1,5 @@
 ## Hola, mi nombre es Pablo Marzal 👋 
-Soy **desarrollador web** con experiencia en **TypeScript y React**, respaldado por un Máster especializado. Me gradué en **Ingeniería Multimedia** y complementé mi formación con un **Máster en Ecommerce y Marketing Digital**. Si te interesa saber más sobre mi trayectoria, ¡sigue leyendo! 👇
+Soy **desarrollador web** con experiencia en **TypeScript y React**. Me gradué en **Ingeniería Multimedia** y complementé mi formación con un **Máster en Ecommerce y Marketing Digital**. Si te interesa saber más sobre mi trayectoria, ¡sigue leyendo! 👇
 
 [✅ Check my portfolio](https://pablomarzal.com/)
 
