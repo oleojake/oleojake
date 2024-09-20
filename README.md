@@ -1,5 +1,5 @@
 ## Hola, mi nombre es Pablo Marzal 👋 
-Me gradué en **Ingieniería Multimedia** y me especialicé mediante un **Máster en Ecommerce** y Marketing Digital. Siento predilección por el desarrollo web por lo que cursé un **BootCamp en JavaScript y TypeScript**, si quieres saber más sobre mí, sigue leyendo 👇
+Soy **desarrollador web** con experiencia en **TypeScript y React**, respaldado por un Máster especializado. Me gradué en **Ingeniería Multimedia** y complementé mi formación con un **Máster en Ecommerce y Marketing Digital**. Si te interesa saber más sobre mi trayectoria, ¡sigue leyendo! 👇
 
 [✅ Check my portfolio](https://pablomarzal.com/)
 
@@ -7,10 +7,6 @@ Me gradué en **Ingieniería Multimedia** y me especialicé mediante un **Máste
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind,vitest,sass,figma,bootstrap,wordpress,vscode,git,github,mui&perline=8)
 
 🌱 Actualmente estoy cursando un Máster sobre desarrollo FrontEnd con [🍋 LemonCode](https://lemoncode.net/) donde estoy mejorando mis competencias en: ***React - Angular - Vuejs - Svelte - d3js - CSS - NextJS -  Jest - GraphQL - Webpack - Vite - ES6 - Typescript y Git***
-
-👯 Me gustaría colaborar en proyectos relacionados con la Inteligencia Artificial o la Gamificación
-
-⚡ Fun fact ¿Sabías que durante la carrera de ingeniería me especialicé en el **Desarrollo de Videojuegos**? 😄 Otro dato curioso sobre mí es que me apasiona el baloncesto y los animales.
 
 📫 Cómo contactarme, puedes hacerlo a través de [LinkedIn](https://www.linkedin.com/in/pablo-marzal/)
 
