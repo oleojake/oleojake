@@ -6,21 +6,49 @@ Soy **desarrollador web** con experiencia en **TypeScript y React**. Me gradué 
 ### TECNOLOGÍAS
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind,vitest,sass,figma,bootstrap,wordpress,vscode,git,github,mui&perline=8)
 
-🌱 Actualmente estoy cursando un Máster sobre desarrollo FrontEnd con [🍋 LemonCode](https://lemoncode.net/) donde estoy mejorando mis competencias en: ***React - Angular - Vuejs - Svelte - d3js - CSS - NextJS -  Jest - GraphQL - Webpack - Vite - ES6 - Typescript y Git***
+🌱 Actualmente estoy cursando un Máster sobre desarrollo FrontEnd con [🍋 LemonCode](https://lemoncode.net/) donde estoy mejorando mis competencias en: ***React - Angular - Vuejs - Svelte - d3js - CSS - NextJS -  Jest - GraphQL - Webpack - Vite - ES6 - Typescript - Docker - React Native***
 
 📫 Cómo contactarme, puedes hacerlo a través de [LinkedIn](https://www.linkedin.com/in/pablo-marzal/)
 
-## React POS (Point Of Sale)
-[![React POS (Point Of Sale)](https://raw.githubusercontent.com/oleojake/oleojake/main/react-pos.png)](https://github.com/oleojake/tpv-react)
+<h1>Proyectos Destacados</h1>
 
-## Astro Classic Pokédex
-[![Astro Classic Pokédex](https://raw.githubusercontent.com/oleojake/oleojake/main/classic-pokedex.png)](https://github.com/oleojake/Classic-Pokedex)
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; text-align: center;">
 
-## FindMyGitHubId
-[![Astro Classic Pokédex](https://raw.githubusercontent.com/oleojake/oleojake/main/findmygithubid.png)](https://github.com/oleojake/github-member-id)
+  <div>
+    <h3>React POS (Point Of Sale)</h3>
+    <a href="https://github.com/oleojake/tpv-react">
+      <img src="https://raw.githubusercontent.com/oleojake/oleojake/main/react-pos.png" alt="React POS (Point Of Sale)" style="width: 100%; max-width: 300px; height: auto; border-radius: 10px;">
+    </a>
+  </div>
 
-## React AI Tic-Tae-Toe
-[![React Tic Tae Toe](https://raw.githubusercontent.com/oleojake/oleojake/main/React%20TicTaeToe%20ai.png)](https://github.com/oleojake/react-tictaetoe-ia)
+  <div>
+    <h3>Astro Classic Pokédex</h3>
+    <a href="https://github.com/oleojake/Classic-Pokedex">
+      <img src="https://raw.githubusercontent.com/oleojake/oleojake/main/classic-pokedex.png" alt="Astro Classic Pokédex" style="width: 100%; max-width: 300px; height: auto; border-radius: 10px;">
+    </a>
+  </div>
 
-## React / MUI Weather App
-[![React Weather App](https://raw.githubusercontent.com/oleojake/oleojake/main/weather-whiz.png)](https://github.com/oleojake/weather-app)
+  <div>
+    <h3>FindMyGitHubId</h3>
+    <a href="https://github.com/oleojake/github-member-id">
+      <img src="https://raw.githubusercontent.com/oleojake/oleojake/main/findmygithubid.png" alt="FindMyGitHubId" style="width: 100%; max-width: 300px; height: auto; border-radius: 10px;">
+    </a>
+  </div>
+
+  <div>
+    <h3>React AI Tic-Tae-Toe</h3>
+    <a href="https://github.com/oleojake/react-tictaetoe-ia">
+      <img src="https://raw.githubusercontent.com/oleojake/oleojake/main/React%20TicTaeToe%20ai.png" alt="React AI Tic-Tae-Toe" style="width: 100%; max-width: 300px; height: auto; border-radius: 10px;">
+    </a>
+  </div>
+
+  <div>
+    <h3>React / MUI Weather App</h3>
+    <a href="https://github.com/oleojake/weather-app">
+      <img src="https://raw.githubusercontent.com/oleojake/oleojake/main/weather-whiz.png" alt="React / MUI Weather App" style="width: 100%; max-width: 300px; height: auto; border-radius: 10px;">
+    </a>
+  </div>
+
+</div>
+
+
