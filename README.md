@@ -30,7 +30,7 @@ Soy **desarrollador web** con experiencia en **TypeScript y React**. Me gradué 
       <a href="https://github.com/oleojake/github-member-id">
         <img src="https://raw.githubusercontent.com/oleojake/oleojake/main/findmygithubid.png" alt="FindMyGitHubId" style="width: 100%; max-width: 300px; height: auto;">
       </a>
-      <p>FindMyGitHubId</p>
+      <p>Find My GitHub Id</p>
     </td>
   </tr>
   <tr>
