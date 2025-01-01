@@ -20,7 +20,12 @@ Soy **desarrollador web** con experiencia en **TypeScript y React**. Me gradué 
       </a>
       <p>Quickmock</p>
     </td>
-    <td></td>
+    <td>
+      <a href="https://github.com/oleojake/basic-pod-architecture-react-boiler-template">
+        <img src="https://raw.githubusercontent.com/oleojake/oleojake/main/react-pods-architecture.png" alt="React Pods Architecture" style="width: 100%; max-width: 300px; height: auto;">
+      </a>
+      <p>React Pods Architecture Template</p>
+    </td>
     <td>
       <a href="https://github.com/oleojake/tpv-react">
         <img src="https://raw.githubusercontent.com/oleojake/oleojake/main/react-pos.png" alt="React POS (Point Of Sale)" style="width: 100%; max-width: 300px; height: auto;">
