@@ -14,7 +14,12 @@ Soy **desarrollador web** con experiencia en **TypeScript y React**. Me gradué 
 
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td></td>
+    <td>
+      <a href="https://github.com/Lemoncode/quickmock">
+        <img src="https://raw.githubusercontent.com/oleojake/oleojake/main/quickmock.png" alt="Quickmock" style="width: 100%; max-width: 300px; height: auto;">
+      </a>
+      <p>Quickmock</p>
+    </td>
     <td></td>
     <td>
       <a href="https://github.com/oleojake/tpv-react">
