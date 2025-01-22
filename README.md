@@ -4,7 +4,7 @@ Soy **desarrollador web** con experiencia en **TypeScript y React**. Me gradué 
 [✅ Check my portfolio](https://pablomarzal.com/)
 
 ### TECNOLOGÍAS
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind,vitest,sass,figma,bootstrap,wordpress,vscode,git,github,mui&perline=8)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,astro,tailwind,vitest,sass,figma,bootstrap,wordpress,vscode,git,github,mui&perline=8)
 
 🌱 Actualmente estoy cursando un Máster sobre desarrollo FrontEnd con [🍋 LemonCode](https://lemoncode.net/) donde estoy mejorando mis competencias en: ***React - Angular - Vuejs - Svelte - d3js - CSS - NextJS -  Jest - GraphQL - Webpack - Vite - ES6 - Typescript - Docker - React Native***
 
