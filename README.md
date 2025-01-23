@@ -53,6 +53,19 @@ Soy **desarrollador web** con experiencia en **TypeScript y React**. Me gradué 
       <p>React / MUI Weather App</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/oleojake/basic-scenes-architecture-angular">
+        <img src="https://raw.githubusercontent.com/oleojake/oleojake/main/angular-architecture.png" alt="Angular Architecture" style="width: 100%; max-width: 300px; height: auto;">
+      </a>
+      <p>Angular Architecture Boilerplate</p>
+    </td>
+    <td>
+      
+    </td>
+    <td>
+    </td>
+  </tr>
 </table>
 
 
