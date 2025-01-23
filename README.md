@@ -61,7 +61,6 @@ Soy **desarrollador web** con experiencia en **TypeScript y React**. Me gradué 
       <p>Angular Architecture Boilerplate</p>
     </td>
     <td>
-      
     </td>
     <td>
     </td>
