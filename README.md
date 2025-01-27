@@ -61,6 +61,10 @@ Soy **desarrollador web** con experiencia en **TypeScript y React**. Me gradué 
       <p>Angular Architecture Boilerplate</p>
     </td>
     <td>
+      <a href="https://github.com/oleojake/movie-searcher-angular">
+        <img src="https://raw.githubusercontent.com/oleojake/oleojake/main/angular-movie-browser.png" alt="Angular Movie Browser" style="width: 100%; max-width: 300px; height: auto;">
+      </a>
+      <p>Angular Movie Browser</p>
     </td>
     <td>
     </td>
